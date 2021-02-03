@@ -25,3 +25,7 @@ Si c'est OK:
 Et si c'est NOK:
 
 ![Palindrome nok](/IMG/Palindrome_nok.png)
+
+##  Outro
+
+Merci d'avoir lu, et tester ce peti code, qui j'espère vous aidera à jouer un peu cet animal
