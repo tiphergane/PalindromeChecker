@@ -2,7 +2,7 @@
 
 ## Pourquoi ?
 
-Juste pour le fun, après avoir vu l'émerveillement d'un ado avec la phrase "elu par cette crapule", je voulais juste faire un petit code qui vérifie si le mot est un palindrome ou non.
+Juste pour le fun, après avoir vu l'émerveillement d'un ado avec la phrase "elu par cette crapule", je voulais juste faire un petit code qui vérifie si le mot est un [palindrome](https://dictionnaire.lerobert.com/definition/palindrome) ou non.
 
 ## Comment ?
 
@@ -26,6 +26,6 @@ Et si c'est NOK:
 
 ![Palindrome nok](/IMG/Palindrome_nok.png)
 
-##  Outro
+## Outro
 
 Merci d'avoir lu, et tester ce peti code, qui j'espère vous aidera à jouer un peu cet animal
