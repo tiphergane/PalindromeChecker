@@ -12,7 +12,7 @@ Python m'a semblé être une solution interessante car le code pourra être lég
 
 C'est très simple, il faut juste executer palindrome.py suivi par le mot à tester:
 
-```python3
+```bash
 palindrome.py rever
 ```
 
