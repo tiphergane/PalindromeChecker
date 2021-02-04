@@ -28,4 +28,4 @@ Et si c'est NOK:
 
 ## Outro
 
-Merci d'avoir lu, et tester ce peti code, qui j'espère vous aidera à jouer un peu cet animal
+Merci d'avoir lu, et tester ce petit code, qui j'espère vous aidera à jouer un peu cet animal
