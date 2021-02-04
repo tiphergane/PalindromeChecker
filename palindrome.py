@@ -8,7 +8,7 @@ baseString = sys.argv[1]
 
 def reverseString(a):
     x = str(a)[::-1]
-    pwn.success("nous testons le mot {}".format(a))
+    pwn.info("nous testons le mot {}".format(a))
     testString(x, baseString)
     return
 
